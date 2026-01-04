@@ -16,13 +16,13 @@ val developer = Developer(
     location = "Indonesia 🇮🇩",
     role = "Game Developer",
     status = "Learning & Growing 🌱",
-    currentlyLearning = listOf("Kotlin", "C#", "Game Design"),
-    interests = listOf("Game Development", "3D Modeling", "UI/UX Design")
+    currentlyLearning = listOf("Kotlin", "C#", "Dart", "React.js", "Luau", "Game Design"),
+    interests = listOf("Game Development", "Mobile Development", "3D Modeling", "UI/UX Design")
 )
 ```
 
 - 🎮 **Passionate Game Developer** - Building interactive experiences
-- 🌱 **Currently Learning** - Kotlin, C#, and Game Design principles
+- 🌱 **Currently Learning** - Kotlin, C#, Dart, React.js, Luau & Game Design
 - 💡 **Always Exploring** - New technologies and creative solutions
 - 🎨 **Creative Mind** - Combining code with art and design
 
@@ -46,20 +46,28 @@ val developer = Developer(
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
 
-### 📱 Mobile & Backend
+### 📱 Mobile Development
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ☁️ Cloud & Tools
+### 🔧 Backend Development
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### ☁️ Cloud & Database
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### 🎨 Design Tools
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -142,3 +150,5 @@ If you find my projects helpful or interesting, consider supporting me! ☕
 **Thanks for visiting! Happy coding! 🚀**
 
 </div>
+
+<!-- Proudly created with GPRM & enhanced with ❤️ -->
