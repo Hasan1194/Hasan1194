@@ -77,23 +77,6 @@ val developer = Developer(
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hasan1194&theme=react&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan1194&theme=react&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan1194&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="170"/>
-
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
